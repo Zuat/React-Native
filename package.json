@@ -52,6 +52,7 @@
     "singleQuote": true,
     "parser": "typescript",
     "semi": false,
-    "jsxSingleQuote": true
+    "jsxSingleQuote": true,
+    "endOfLine": "lf"
   }
 }
